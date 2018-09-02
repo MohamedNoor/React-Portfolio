@@ -102,7 +102,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <Button colored>
-                <a href="https://www.google.co.uk" rel="noopener noreferrer" target="_blank">Github</a>
+                <a href="https://github.com/MohamedNoor/React-Weather" rel="noopener noreferrer" target="_blank">Github</a>
               </Button>
               <Button colored>
                 <a href="https://mohamednoor.github.io/React-Weather/" rel="noopener noreferrer" target="_blank">Live Demo</a>
@@ -124,7 +124,7 @@ class Projects extends Component {
             <CardActions border>
             {/*github link*/}
               <Button colored>
-                <a href="https://www.google.co.uk" rel="noopener noreferrer" target="_blank">Github</a>
+                <a href="https://github.com/MohamedNoor/React-Recipe" rel="noopener noreferrer" target="_blank">Github</a>
               </Button>
               {/*live demo link*/}
               <Button colored>
